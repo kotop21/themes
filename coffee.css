@@ -1,0 +1,52 @@
+/**
+ * @name coffe
+ * @author kotop21
+ * @description
+ * @version 0.0.4
+ */
+
+.theme-dark {
+    /*  Фон серверов справа. */
+    --background-tertiary: #201c1c;
+    /*  Фон там где каналы/чаты.  */
+    --background-secondary: #242020;
+    /*  Фон где акаунт выключения микро. */
+    --background-secondary-alt: #201c1c;
+    /*  Фон в переписке/чате. */
+    --background-primary: #302a2a;
+    /*  Поле для ввода сообщения. */
+    --channeltextarea-background: #242020;
+    /*  Поле для ввода. */
+    --input-background: #201c1c;
+    /* Полоска для прокрутки */
+    --scrollbar-auto-track: #242020;
+    --scrollbar-thin-track: #201c1c;
+    
+}
+.contentWrapper__321ed {
+    background-color: #242020;
+}
+    .container_e4c233 {
+        background: #302a2a;
+
+    }
+    .wrapper__7a35f {
+        background-color: #201c1c;
+    }
+    .inspector__993e1 {
+        background-color: #201c1c;
+    }
+    .wrapper_cd625e{
+        background-color: #252121;
+    }
+    .inner__999f6{
+        background-color: #302a2a;
+    }
+
+.root_a28985{
+    background-color: #302a2a;
+}
+
+.horizontalReverse_dc209c{
+    background-color: #242020;
+}
